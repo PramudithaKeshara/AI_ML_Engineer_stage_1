@@ -1,2 +1,7 @@
 git pull
 git pull --allow-unrelated-histories
+git push
+git add .   <-- to add all files
+git add <file_name>
+git status
+git commit -am "commit message"   <-- add files and commit
