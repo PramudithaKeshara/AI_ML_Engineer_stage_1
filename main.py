@@ -1,1 +1,1 @@
-from lecture_1 import part_c
+from week_2.lecture_2 import part_d
